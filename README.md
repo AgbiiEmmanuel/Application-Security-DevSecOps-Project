@@ -1,7 +1,7 @@
 # Application-Security-DevSecOps-Project
 
 
-# Application Security Assessment README
+## Application Security Assessment README
 
 ## Overview
 This document outlines the methodology and objectives for conducting application security assessments within the company. The process includes conducting a critical asset list, followed by in-depth analysis and implementation of security measures for one selected application.
