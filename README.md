@@ -19,7 +19,8 @@ Inherent Risk Assessment: Perform an inherent risk assessment to evaluate the in
 ** Cyber Kill Chain: Formulate a Cyber Attack Kill Chain to delineate the stages of a potential cyber attack and identify potential points of intervention and defense.
 ** AWS EC2 Infrastructure Diagram: Create an AWS EC2 infrastructure diagram, detailing the region, VPC, subnet, security group, and Elastic Block Store (EBS) configuration to ensure a secure cloud environment.
 ** Security Measures Implementation: Design and implement a range of security measures, including access controls, encryption mechanisms, intrusion detection systems, and incident response plans, to enhance the application's security posture.
-Usage
+
+# Usage
 
 This document serves as a comprehensive guide for security analysts and stakeholders involved in the application security assessment process. It outlines the steps to be followed and the objectives to be achieved at each stage of the assessment, facilitating a systematic approach to improving application security.
 
