@@ -13,6 +13,8 @@ Application security assessments are crucial for safeguarding sensitive data, en
 
 **Critical Asset List**: I conducted a comprehensive critical asset list for three applications to identify and prioritize key assets within the company's infrastructure.
 
+![Critical Asset List](https://github.com/AgbiiEmmanuel/Application-Security-DevSecOps-Project/assets/159606680/774a6927-187e-447c-aa3a-e506e3c124a4)
+
 **Selection of Focus Application**: I Choosed one application for detailed analysis and security enhancement based on the critical asset list findings.
 
 **Data Flow Diagram and High-Level Diagram**: I Developed a detailed data flow diagrams and high-level architectural diagrams to visualize the application's infrastructure and data flow patterns.
@@ -24,6 +26,8 @@ Inherent Risk Assessment: I Performed an inherent risk assessment to evaluate th
 **Cyber Kill Chain**: I Formulated a Cyber Attack Kill Chain to delineate the stages of a potential cyber attack and identify potential points of intervention and defense.
 
 **AWS EC2 Infrastructure Diagram**: I Created an AWS EC2 infrastructure diagram, detailing the region, VPC, subnet, security group, and Elastic Block Store (EBS) configuration to ensure a secure cloud environment.
+
+![AWS EC2](https://github.com/AgbiiEmmanuel/Application-Security-DevSecOps-Project/assets/159606680/7f089b59-74e9-48ba-abe6-414859f86c30)
 
 **Security Measures Implementation**: I Designed and implemented a range of security measures, including access controls, continuous monitoring, threat detection or intrusion detection systems, and incident response plans, to enhance the application's security posture.
 
