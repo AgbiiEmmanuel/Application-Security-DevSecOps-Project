@@ -24,7 +24,7 @@ Application security assessments are crucial for safeguarding sensitive data, en
 ![Threat landscape](https://github.com/AgbiiEmmanuel/Application-Security-DevSecOps-Project/assets/159606680/f55f0e3d-8340-4247-bc54-e9317c61d871)
 
 
-Inherent Risk Assessment: I Performed an inherent risk assessment to evaluate the initial risk level associated with the selected application, considering its vulnerabilities and potential impact.
+**Inherent Risk Assessment**: I Performed an inherent risk assessment to evaluate the initial risk level associated with the selected application, considering its vulnerabilities and potential impact.
 
 ![Inherent Risk Assessment ](https://github.com/AgbiiEmmanuel/Application-Security-DevSecOps-Project/assets/159606680/5f50cd97-911e-42aa-bd08-58a0084d00f4)
 
