@@ -11,20 +11,21 @@ Application security assessments are crucial for safeguarding sensitive data, en
 
 ## Process
 
-**Critical Asset List**: Conduct a comprehensive critical asset list for three applications to identify and prioritize key assets within the company's infrastructure.
+**Critical Asset List**: I conducted a comprehensive critical asset list for three applications to identify and prioritize key assets within the company's infrastructure.
 
-**Selection of Focus Application**: Choose one application for detailed analysis and security enhancement based on the critical asset list findings.
+**Selection of Focus Application**: I Choosed one application for detailed analysis and security enhancement based on the critical asset list findings.
 
-**Data Flow Diagram and High-Level Diagram**: Develop detailed data flow diagrams and high-level architectural diagrams to visualize the application's infrastructure and data flow patterns.
+**Data Flow Diagram and High-Level Diagram**: I Developed a detailed data flow diagrams and high-level architectural diagrams to visualize the application's infrastructure and data flow patterns.
 
-**Threat Modeling**: Employ tools such as MITRE ATT&CK and other threat modeling techniques to identify potential threats and vulnerabilities throughout the application's lifecycle.
-Inherent Risk Assessment: Perform an inherent risk assessment to evaluate the initial risk level associated with the selected application, considering its vulnerabilities and potential impact.
+**Threat Modeling**: I Employed tools such as MITRE ATT&CK and other threat modeling techniques to identify potential threats and vulnerabilities throughout the application's lifecycle.
 
-**Cyber Kill Chain**: Formulate a Cyber Attack Kill Chain to delineate the stages of a potential cyber attack and identify potential points of intervention and defense.
+Inherent Risk Assessment: I Performed an inherent risk assessment to evaluate the initial risk level associated with the selected application, considering its vulnerabilities and potential impact.
 
-**AWS EC2 Infrastructure Diagram**: Create an AWS EC2 infrastructure diagram, detailing the region, VPC, subnet, security group, and Elastic Block Store (EBS) configuration to ensure a secure cloud environment.
+**Cyber Kill Chain**: I Formulated a Cyber Attack Kill Chain to delineate the stages of a potential cyber attack and identify potential points of intervention and defense.
 
-**Security Measures Implementation**: Design and implement a range of security measures, including access controls, encryption mechanisms, intrusion detection systems, and incident response plans, to enhance the application's security posture.
+**AWS EC2 Infrastructure Diagram**: I Created an AWS EC2 infrastructure diagram, detailing the region, VPC, subnet, security group, and Elastic Block Store (EBS) configuration to ensure a secure cloud environment.
+
+**Security Measures Implementation**: I Designed and implemented a range of security measures, including access controls, encryption mechanisms, intrusion detection systems, and incident response plans, to enhance the application's security posture.
 
 # Usage
 
