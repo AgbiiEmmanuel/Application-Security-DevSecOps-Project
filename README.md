@@ -27,6 +27,9 @@ Inherent Risk Assessment: I Performed an inherent risk assessment to evaluate th
 
 **Security Measures Implementation**: I Designed and implemented a range of security measures, including access controls, continuous monitoring, threat detection or intrusion detection systems, and incident response plans, to enhance the application's security posture.
 
+![Security controls](https://github.com/AgbiiEmmanuel/Application-Security-DevSecOps-Project/assets/159606680/37f8bf18-2499-43dc-ba34-80fcce72f89a)
+
+
 ## Here's an explanation of why each of those security controls was implemented for the application, along with why email was attached as part of the process:
 
 **Amazon GuardDuty**: Amazon GuardDuty is a threat detection service that continuously monitors for malicious activity and unauthorized behavior within AWS environments. It was implemented to provide real-time threat detection and automated responses to potential security threats, helping to protect the application from various attacks such as account compromise, privilege escalation, and malicious activity.
