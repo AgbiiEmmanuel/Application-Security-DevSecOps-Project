@@ -26,6 +26,8 @@ Application security assessments are crucial for safeguarding sensitive data, en
 
 Inherent Risk Assessment: I Performed an inherent risk assessment to evaluate the initial risk level associated with the selected application, considering its vulnerabilities and potential impact.
 
+![Inherent Risk Assessment ](https://github.com/AgbiiEmmanuel/Application-Security-DevSecOps-Project/assets/159606680/5f50cd97-911e-42aa-bd08-58a0084d00f4)
+
 **Cyber Kill Chain**: I Formulated a Cyber Attack Kill Chain to delineate the stages of a potential cyber attack and identify potential points of intervention and defense.
 
 **AWS EC2 Infrastructure Diagram**: I Created an AWS EC2 infrastructure diagram, detailing the region, VPC, subnet, security group, and Elastic Block Store (EBS) configuration to ensure a secure cloud environment.
